@@ -1,0 +1,65 @@
+body{
+    background-image:url(Fam.jpg);
+    color:rgb(0, 0, 0);
+    font-family:cursive;
+    background-size:cover;
+}
+
+.heading{
+    width:60%;
+    height: 72px;
+    font-size:35px;
+    letter-spacing:3px;
+    
+}
+
+         
+         
+.btn-grad {
+    background-image: linear-gradient(to right, #f7ff00 0%, #db36a4  51%, #f7ff00  100%);
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+  }
+
+  .btn-grad:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+ 
+ 
+  
+    
+         
+  .btn-grad2 {
+    background-image: linear-gradient(to right, #ff4b1f 0%, #1fddff  51%, #ff4b1f  100%);
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+  }
+
+  .btn-grad2:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+ 
+  .name_of_objects{
+    font-size:22px;
+    
+  }
